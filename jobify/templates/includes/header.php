@@ -30,5 +30,6 @@ body {
             <li role="presentation"><a href="create.php" style="color:white;">Create Job</a></li>
           </ul>
         </nav>
-        <h1 class="text-muted" id style="color:midnightblue;font-weight:bolder;" ><?php echo SITE_TITLE; ?></h1></center>
+        <img src="https://react-jobs-app.netlify.app/favicon.ico">&nbsp &nbsp
+        <label class="text-muted" id style="color:royalblue;font-weight:bolder;margin-top:15px;font-size:xx-large;vertical-align:middle;" ><?php echo SITE_TITLE; ?></label></center>
       </div>
