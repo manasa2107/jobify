@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Jobify</title>
+    <link rel="icon" href="https://react-jobs-app.netlify.app/favicon.ico"/>
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="https://getbootstrap.com/docs/3.4/dist/css/bootstrap.min.css">
      <link rel="stylesheet" href="css/styles.css">
